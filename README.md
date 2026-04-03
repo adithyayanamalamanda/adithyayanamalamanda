@@ -73,7 +73,7 @@
 # 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/yanamalamanda-adithya/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:YOUR_EMAIL">
