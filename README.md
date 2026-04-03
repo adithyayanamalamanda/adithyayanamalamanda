@@ -34,15 +34,7 @@
 # 📊 GitHub Live Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyayanamalamanda&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=adithyayanamalamanda&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyayanamalamanda&layout=compact&theme=tokyonight" />
 </p>
 
 ---
