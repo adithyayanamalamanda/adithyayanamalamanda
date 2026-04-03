@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adithya Yanamalamanda</h1>
-<h3 align="center">🚀 AI Developer | Full Stack Engineer</h3>
+<h3 align="center">🚀 Data Science student | Full Stack Engineer </h3>
 ---
 
 ## 🧠 About Me
@@ -43,9 +43,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github.com/adithyayanamalamanda.png" width="150" height="150" style="border-radius:50%;" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyayanamalamanda&theme=tokyonight" />
 </p>
