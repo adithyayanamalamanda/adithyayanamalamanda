@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm Adithya Yanamalamanda</h1>
-<h3 align="center">🚀 AI Developer | Full Stack Engineer | Building Intelligent Systems</h3>
+<h3 align="center">🚀 AI Developer | Full Stack Engineer</h3>
 
 ---
 
-## 🌐 Connect & Profiles (Live)
+## 🧠 About Me
 
-<p align="center">
-  <a href="https://github.com/adithyayanamalamanda"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"></a>
-  <a href="https://www.linkedin.com/in/yanamalamanda-adithya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="https://www.geeksforgeeks.org/profile/adithyayana"><img src="https://img.shields.io/badge/GFG-Profile-green?logo=geeksforgeeks"></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode"></a>
-</p>
+- 🔭 Building AI-powered real-world systems  
+- 📰 Working on News Intelligence Platforms  
+- 🌱 Learning Deep Learning & System Design  
+
+---
+
+## 🌐 Profiles
+
+- 💻 GitHub: https://github.com/adithyayanamalamanda  
+- 💼 LinkedIn: https://www.linkedin.com/in/yanamalamanda-adithya/  
+- 🌍 Portfolio: https://adithyayanamalamanda.github.io/mine  
 
 ---
 
@@ -27,42 +32,18 @@
 
 ---
 
-## 🧠 LeetCode Stats (Dynamic)
+## 🧠 LeetCode Dashboard (Live)
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest" />
-</p>
-
----
-
-## 🧩 GeeksforGeeks Stats (Dynamic via Badge)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Active%20Coder-brightgreen" />
-</p>
+<!-- LEETCODE_START -->
+Updating...
+<!-- LEETCODE_END -->
 
 ---
 
-## 💼 LinkedIn Activity (Dynamic Indicator)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Active-blue?logo=linkedin" />
-</p>
-
----
-
-## ⚡ Daily Quote (Auto Changes)
+## ⚡ Daily Motivation
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adithyayanamalamanda&theme=radical" />
 </p>
 
 ---
