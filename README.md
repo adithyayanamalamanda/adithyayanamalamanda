@@ -15,6 +15,11 @@
 
 ## 🚀 Tech Stack
 
+<details>
+<summary>👉 Click to expand Tech Stack</summary>
+
+---
+
 ### 👨‍💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
@@ -30,11 +35,12 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### 🛢️ Tools
+### 🛠️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,vscode" />
 </p>
 
+</details>
 ---
 
 ## 📊 GitHub Stats
