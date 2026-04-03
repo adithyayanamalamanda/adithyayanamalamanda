@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Adithya</h1>
+<h3 align="center">AI & Full Stack Developer</h3>
 
-<!--
-**adithyayanamalamanda/adithyayanamalamanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Working on AI + News Analysis Systems
+- 🌱 Learning Deep Learning & System Design
+- 💡 Interested in Real-world AI Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- Python | JavaScript | TensorFlow
+- React | Node.js
+- Git & GitHub
+
+---
+
+### 📊 GitHub Stats
+![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyayanamalamanda&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyayanamalamanda&layout=compact)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=adithyayanamalamanda&theme=radical)
+
+---
+
+### 📫 Connect with me
+- LinkedIn: (your link)
