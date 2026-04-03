@@ -67,30 +67,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyayanamalamanda&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
-<!-- Heatmap -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/00ff00/adithyayanamalamanda" />
-</p>
-
 ---
 
-# 🐍 Contribution Snake (Auto-Generated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adithyayanamalamanda/adithyayanamalamanda/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 🏆 Achievements (Auto)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adithyayanamalamanda&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
-
-# 📌 Featured Work (Dynamic if repos updated)
+# 📌 Featured Work.
 
 - 🚀 [AI News Analyzer System](https://github.com/adithyayanamalamanda)
 - 🧠 [Document Intelligence Pipeline](https://github.com/adithyayanamalamanda)
