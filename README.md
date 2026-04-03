@@ -18,8 +18,6 @@
 <details>
 <summary>👉 Click to expand Tech Stack</summary>
 
----
-
 ### 👨‍💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
