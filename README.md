@@ -53,7 +53,7 @@
 
 ---
 
-## 🔥 LeetCode Stats (Live)
+## 🔥 LeetCode Stats.
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/1Mn6Iqzqh4?theme=dark&font=Baloo&ext=contest" />
