@@ -31,7 +31,7 @@
 
 ---
 
-# 📊 GitHub Live Stats
+# 📊 GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=adithyayanamalamanda&theme=tokyonight" />
@@ -39,7 +39,7 @@
 
 ---
 
-# 🔥 LeetCode (Live + Dynamic)
+# 🔥 LeetCode
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/1Mn6Iqzqh4?theme=dark&ext=contest&animation=true" />
