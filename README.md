@@ -5,11 +5,11 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **AI-powered applications & real-world systems**
-- 🌱 Learning **Advanced Machine Learning, System Design**
-- 💡 Passionate about **building scalable & intelligent solutions**
-- ⚡ Strong interest in **DSA, Web Development & AI**
-- 🎯 Goal: Become a **top AI Engineer & Innovator**
+- 🔭 Building **AI-powered real-world applications**
+- 🌱 Currently learning **Advanced DSA & System Design**
+- 💡 Interested in **AI, Backend Systems & Scalable Apps**
+- ⚡ Strong in **Problem Solving & Development**
+- 🎯 Goal: Become a **top AI Engineer**
 
 ---
 
@@ -30,9 +30,9 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### 🛢️ Databases & Tools
+### 🛢️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,vscode" />
 </p>
 
 ---
@@ -49,13 +49,17 @@
 
 ---
 
-## 🔥 LeetCode Stats (Dynamic)
+## 🔥 LeetCode Stats (Live)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/1Mn6Iqzqh4?theme=dark&font=Baloo&ext=contest" />
 </p>
 
-👉 Replace `YOUR_LEETCODE_USERNAME` with your actual username
+<p align="center">
+  <a href="https://leetcode.com/u/1Mn6Iqzqh4/">
+    🔗 View My LeetCode Profile
+  </a>
+</p>
 
 ---
 
@@ -77,10 +81,10 @@
 
 ## 📌 Featured Projects
 
-- 🚀 AI News Analyzer System
-- 🧠 Document Intelligence Pipeline
-- 🌐 Full Stack Web Apps
-- 📊 Data-driven ML Projects
+- 🚀 AI News Analyzer System  
+- 🧠 Document Intelligence Pipeline  
+- 🌐 Full Stack Applications  
+- 📊 Machine Learning Projects  
 
 ---
 
@@ -93,9 +97,9 @@
 
 ---
 
-## 🧭 Profile Views
+## 👀 Profile Views
 
-<p align="left">
+<p>
   <img src="https://komarev.com/ghpvc/?username=adithyayanamalamanda&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
