@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Adithya Yanamalamanda</h1>
-<h3 align="center">🚀 AI Developer | Full Stack Engineer | Problem Solver</h3>
 
+<h1 align="center">Hi 👋, I'm Adithya Yanamalamanda</h1>
+<h3 align="center">🚀 AI Developer | Full Stack Engineer</h3>
 ---
 
 ## 🧠 About Me
@@ -44,9 +44,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyayanamalamanda&show_icons=true&theme=tokyonight" />
+  <img src="https://github.com/adithyayanamalamanda.png" width="150" height="150" style="border-radius:50%;" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyayanamalamanda&theme=tokyonight" />
 </p>
