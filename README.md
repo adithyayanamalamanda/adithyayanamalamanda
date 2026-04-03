@@ -1,92 +1,104 @@
 <h1 align="center">Hi 👋, I'm Adithya Yanamalamanda</h1>
-<h3 align="center">🚀 AI Developer | Full Stack Engineer</h3>
+<h3 align="center">🚀 AI Developer | Full Stack Engineer | Problem Solver</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Building AI-powered real-world systems  
-- 📰 Working on News Intelligence Platforms  
-- 🌱 Learning Deep Learning & System Design  
+- 🔭 Currently working on **AI-powered applications & real-world systems**
+- 🌱 Learning **Advanced Machine Learning, System Design**
+- 💡 Passionate about **building scalable & intelligent solutions**
+- ⚡ Strong interest in **DSA, Web Development & AI**
+- 🎯 Goal: Become a **top AI Engineer & Innovator**
 
 ---
 
-## 🌐 Profiles
+## 🚀 Tech Stack
 
-- 💻 GitHub: https://github.com/adithyayanamalamanda  
-- 💼 LinkedIn: https://www.linkedin.com/in/yanamalamanda-adithya/  
-- 🌍 Portfolio: https://adithyayanamalamanda.github.io/mine  
-
----
-
-## 📊 GitHub Stats (Auto)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyayanamalamanda&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://streak-stats.demolab.com/?user=adithyayanamalamanda&theme=radical" />
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyayanamalamanda&theme=react-dark" />
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
----
-
-## 🧠 LeetCode Dashboard (Live)
-
-<!-- LEETCODE_START -->
-<div align="center">
-
-### 🧠 LeetCode Progress (Live)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-adithyayanamalamanda-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adithyayanamalamanda/)
-
-| 🔥 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
-| :---: | :---: | :---: | :---: |
-| **250** | **120** | **100** | **30** |
-
-<p align="center">
-  <b>Ranking:</b> <code>123,456</code> | <b>Acceptance Rate:</b> <code>58.2%</code>
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-</div>
-<!-- LEETCODE_END -->
-
-<p align="center">
-  <sub>Last updated automatically via GitHub Actions.</sub>
+### 🛢️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Dynamic GitHub Profile README System
-
-Designed and implemented a fully automated system that dynamically reflects real-time activity and performance across coding platforms.
-
-### 🎯 Objective
-Automatically update coding statistics and problem-solving metrics on a daily schedule without manual intervention.
-
-### 🧱 System Architecture
-```mermaid
-graph TD
-    A[GitHub Action CRON: Daily] --> B[Python Script Data Fetching]
-    B --> C[LeetCode API Stats]
-    C --> D[README.md Update Markers]
-    D --> E[Auto Commit -> Profile Updated]
-```
-
-### 🧠 Core Features
-- **Real-time Stats**: Fetches problem-solving metrics directly from LeetCode.
-- **Fully Automated**: Runs daily via GitHub Actions.
-- **Safe Updates**: Uses a custom injection system with markers to prevent overwriting other content.
-
----
-
----
-
-## ⚡ Daily Motivation
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyayanamalamanda&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyayanamalamanda&theme=tokyonight" />
 </p>
 
 ---
+
+## 🔥 LeetCode Stats (Dynamic)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+👉 Replace `YOUR_LEETCODE_USERNAME` with your actual username
+
+---
+
+## 🧩 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyayanamalamanda&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adithyayanamalamanda&theme=onedark" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- 🚀 AI News Analyzer System
+- 🧠 Document Intelligence Pipeline
+- 🌐 Full Stack Web Apps
+- 📊 Data-driven ML Projects
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+## 🧭 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adithyayanamalamanda&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+⭐️ From [Adithya Yanamalamanda](https://github.com/adithyayanamalamanda)
