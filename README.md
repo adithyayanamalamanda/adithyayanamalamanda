@@ -35,8 +35,51 @@
 ## 🧠 LeetCode Dashboard (Live)
 
 <!-- LEETCODE_START -->
-Updating...
+<div align="center">
+
+### 🧠 LeetCode Progress (Live)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-adithyayanamalamanda-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adithyayanamalamanda/)
+
+| 🔥 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
+| :---: | :---: | :---: | :---: |
+| **250** | **120** | **100** | **30** |
+
+<p align="center">
+  <b>Ranking:</b> <code>123,456</code> | <b>Acceptance Rate:</b> <code>58.2%</code>
+</p>
+
+</div>
 <!-- LEETCODE_END -->
+
+<p align="center">
+  <sub>Last updated automatically via GitHub Actions.</sub>
+</p>
+
+---
+
+## 🚀 Dynamic GitHub Profile README System
+
+Designed and implemented a fully automated system that dynamically reflects real-time activity and performance across coding platforms.
+
+### 🎯 Objective
+Automatically update coding statistics and problem-solving metrics on a daily schedule without manual intervention.
+
+### 🧱 System Architecture
+```mermaid
+graph TD
+    A[GitHub Action CRON: Daily] --> B[Python Script Data Fetching]
+    B --> C[LeetCode API Stats]
+    C --> D[README.md Update Markers]
+    D --> E[Auto Commit -> Profile Updated]
+```
+
+### 🧠 Core Features
+- **Real-time Stats**: Fetches problem-solving metrics directly from LeetCode.
+- **Fully Automated**: Runs daily via GitHub Actions.
+- **Safe Updates**: Uses a custom injection system with markers to prevent overwriting other content.
+
+---
 
 ---
 
