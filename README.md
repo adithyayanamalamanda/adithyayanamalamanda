@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Adithya Yanamalamanda</h1>
-<h3 align="center">🚀 Data Science Student | Full Stack Engineer</h3>
+<h3 align="center">🚀 Data Science Student | Full Stacker </h3>
 
 ---
 
