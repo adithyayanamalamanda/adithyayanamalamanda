@@ -1,118 +1,126 @@
-<!-- 🔥 Typing Animation & Header -->
+<!-- 🔥 Header: Animated Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Google+Student+Ambassador;Full+Stack+Engineer;Cybersecurity+Advocate;DSA+%26+Algorithmic+Problem+Solver" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/adithyayanamalamanda/adithyayanamalamanda/main/gaming-banner.gif" onerror="this.src='https://i.pinimg.com/originals/3d/80/f8/3d80f8365261df02f232cecd94ea096e.gif'" width="100%" alt="Gaming Banner" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Adithya Yanamalamanda</h1>
-<h3 align="center">🚀 Engineering Student | Full Stack & AI Enthusiast</h3>
+<!-- 🔥 Dynamic Typing Title -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=16&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World!%22);PLAYER+NAME:+ADITHYA+YANAMALAMANDA;CLASS:+FULL+STACK+%26+CYBERSECURITY;GUILD:+GOOGLE+STUDENT+AMBASSADOR;LOADING+PROFILE...100%25" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yanamalamanda-adithya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/adithyayanamalamanda">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/View_Source-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adithyayanamalamanda&label=PROFILE+VIEWS&color=00FFCC&style=for-the-badge" alt="Profile Views" />
+</div>
+
 ---
 
-## 👨‍💻 About Me
+## 🎮 [ PLAYER STATUS ]
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="50%">
+      <h3><b>🛡️ Base Stats</b></h3>
       <ul>
-        <li>🎓 <b>Google Student Ambassador</b> (2026–2027) bridging the gap between campus developers and global tech.</li>
-        <li>🔭 Currently building <b>AgriLink</b>, a sustainable agriculture platform connecting farmers with resources.</li>
-        <li>🔐 Deeply engaged in <b>Cybersecurity</b>, organizing workshops covering everything from reconnaissance to web application hardening.</li>
-        <li>⚡ Dedicated to <b>Advanced DSA & Competitive Programming</b>, participating in the 60 Days POTD Challenge to master complex algorithms.</li>
-        <li>🎯 Goal: To engineer scalable AI applications and robust, secure network infrastructures.</li>
+        <li><b>Title:</b> Google Student Ambassador (2026–2027)</li>
+        <li><b>Current Level:</b> B.Tech (Level 3-2)</li>
+        <li><b>Agility:</b> Rapid algorithmic problem solving via 60-Day POTD Challenges.</li>
+        <li><b>Stealth:</b> Deep diving into network security, pentesting, and ethical hacking.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://komarev.com/ghpvc/?username=adithyayanamalamanda&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views" />
+    <td width="50%">
+      <h3><b>⚔️ Current Objectives</b></h3>
+      <ul>
+        <li>[■■■■■■■■□□] 80% Mastering System Design</li>
+        <li>[■■■■■■■■■□] 90% Scaling Full Stack Architectures</li>
+        <li>[■■■■■■■■■■] 100% Leading Placement Aptitude Series</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎒 [ INVENTORY / TECH STACK ]
 
 <details open>
-<summary><b>🌐 Full Stack Development</b></summary>
+<summary><b>🪄 Magic & Spells (Software Engineering)</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,mysql" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,mysql,python,cpp,java&theme=dark" />
+  </a>
 </p>
-<p align="center"><i>React, Vite, Tailwind CSS, Node.js, Express, MongoDB, MySQL, Framer Motion, Recharts</i></p>
+<p align="center"><i>Equipped: React, Vite, Tailwind CSS, Node.js, MongoDB, Python, C++, Java</i></p>
 </details>
 
 <details open>
-<summary><b>🔐 Cybersecurity & Penetration Testing</b></summary>
+<summary><b>🗡️ Arsenal (Cybersecurity Tools)</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,network" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,linux,bash,network,git&theme=dark" />
+  </a>
 </p>
-<p align="center"><i>Nmap, Metasploit, Burp Suite, Hashcat, Ethical Hacking, Network Security</i></p>
-</details>
-
-<details open>
-<summary><b>💻 Languages & Core Tools</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,git,github,vscode" />
-</p>
+<p align="center"><i>Equipped: Nmap, Metasploit, Burp Suite, Hashcat</i></p>
 </details>
 
 ---
 
-## 📌 Featured Work & Initiatives
+## 📜 [ ACTIVE QUESTS / PROJECTS ]
 
-| 🚀 Project / Initiative | 📝 Description | 🛠 Tech / Tools |
+| Quest Log | Description | Mana Used (Stack) |
 | :--- | :--- | :--- |
-| **[AgriLink](#)** | Green Technology platform connecting farmers with vital agricultural resources. Presented at Innovathon. | `React`, `Vite`, `Tailwind CSS`, `Framer Motion`, `Recharts` |
-| **[3D Maze Quiz Engine](#)** | Interactive first-person 3D maze game designed to host 20-question technical quizzes for college events. | `Python`, `Game Engine Logic` |
-| **[Cyber Security Workshop Curriculum](#)** | Designed and documented a comprehensive 14-day training module from basics to advanced pentesting. | `Nmap`, `Metasploit`, `Burp Suite` |
-| **[Placement Prep Series](#)** | Led a 54+ day initiative providing structured aptitude, logic, and algorithmic problem-solving content for peers. | `DSA`, `Data Structures`, `Aptitude` |
-
-> *Note: Click on the project names to view the repositories or documentation.*
+| **[🌱 AgriLink Platform](#)** | A Green Tech initiative bridging farmers with essential resources, successfully showcased at Innovathon. | `React`, `Vite`, `Tailwind CSS`, `Framer Motion`, `Recharts` |
+| **[🧩 The Labyrinth Engine](#)** | Interactive 3D first-person maze built for hosting technical events. Features strict **arrow-key navigation**, atmospheric **white lighting**, and **neutral text** quiz mechanics. | `Python`, `3D Engine` |
+| **[🔐 Operation: Override](#)** | Designed a comprehensive 14-day cybersecurity training module guiding students from basic reconnaissance to advanced web app hardening. | `Cybersecurity`, `Pentesting` |
+| **[🧠 Aptitude Ascendant](#)** | Launched and curated a 54+ day continuous logical reasoning and coding placement series for peer upskilling. | `DSA`, `Aptitude` |
 
 ---
 
-## 📊 GitHub & Coding Intelligence
+## 🕹️ [ MINI-GAME: CONTRIBUTION SNAKE ]
+*Watch the snake consume my daily contributions!*
 
 <div align="center">
-  
-  <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyayanamalamanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyayanamalamanda&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-  <br><br>
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=adithyayanamalamanda&theme=tokyonight&hide_border=true" width="100%" />
-
-  <br><br>
-  
-  <!-- LeetCode Stats -->
-  <a href="https://leetcode.com/adithyayanamalamanda">
-    <img src="https://leetcard.jacoblin.cool/adithyayanamalamanda?theme=dark&ext=contest&animation=true" width="100%" />
-  </a>
-
-  <br><br>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyayanamalamanda&theme=tokyo-night&area=true&hide_border=true" width="100%" />
-
+  <!-- GitHub Action Snake Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adithyayanamalamanda/adithyayanamalamanda/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adithyayanamalamanda/adithyayanamalamanda/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adithyayanamalamanda/adithyayanamalamanda/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
+## 📈 [ PLAYER ANALYTICS ]
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyayanamalamanda&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFCC&icon_color=00FFCC&text_color=ffffff&bg_color=0D1117" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyayanamalamanda&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFCC&text_color=ffffff&bg_color=0D1117" width="48%" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=adithyayanamalamanda&theme=tokyonight&hide_border=true&fire=00FFCC&ring=00FFCC" width="100%" />
+
+  <br><br>
+  
+  <a href="https://leetcode.com/adithyayanamalamanda">
+    <img src="https://leetcard.jacoblin.cool/adithyayanamalamanda?theme=dark&ext=contest&animation=true" width="100%" />
+  </a>
+
+</div>
+
+<br>
 <p align="center">
-  <i>⭐️ Always learning. Always building. Let's connect and code! ⭐️</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=100&section=footer"/>
 </p>
