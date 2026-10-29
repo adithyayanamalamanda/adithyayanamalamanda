@@ -63,14 +63,13 @@ I'm a final-year B.Tech student in Computer Science and Engineering (Data Scienc
 | **Aptitude Ascendant** | 54+ day logical reasoning, aptitude and coding series for placement preparation. | DSA, Aptitude |
 
 ---
-
-## GitHub stats
+## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyayanamalamanda&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyayanamalamanda&layout=compact&theme=default&hide_border=true" width="49%" alt="Top languages">
+  <a href="https://github.com/adithyayanamalamanda?tab=followers"><img src="https://img.shields.io/github/followers/adithyayanamalamanda?label=Followers&style=for-the-badge&logo=github&color=0A66C2" alt="Followers"></a>
+  <a href="https://github.com/adithyayanamalamanda?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-View-0A66C2?style=for-the-badge&logo=github" alt="Repositories"></a>
+  <a href="https://github.com/adithyayanamalamanda?tab=stars"><img src="https://img.shields.io/badge/Starred-View-0A66C2?style=for-the-badge&logo=github" alt="Stars"></a>
 </p>
-
 ---
 
 ## Let's connect
