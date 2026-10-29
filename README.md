@@ -1,236 +1,82 @@
-<!-- ========================================================= -->
-<!--                    ADITHYA GAMING README                  -->
-<!-- ========================================================= -->
+<h1 align="center">Yanamalamanda Adithya</h1>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFCC&height=200&section=header&text=ADITHYA.EXE&fontSize=42&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity&descAlignY=55&descSize=16&descColor=00FFCC"
-    width="100%"
-    alt="Gaming Banner"
-  />
+  Full Stack Developer &nbsp;·&nbsp; Cybersecurity Enthusiast &nbsp;·&nbsp; Google Student Ambassador
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&height=70&lines=SYSTEM.ONLINE...;PLAYER%3A+ADITHYA+YANAMALAMANDA;CLASS%3A+FULL+STACK+%26+CYBERSECURITY;GUILD%3A+GOOGLE+STUDENT+AMBASSADOR;STATUS%3A+READY+TO+BUILD"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yanamalamanda-adithya/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/adithyayanamalamanda">
-    <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=adithyayanamalamanda&label=PROFILE+VIEWS&color=00FFCC&style=for-the-badge"
-    alt="Profile Views"
-  />
+  <a href="https://adithya-portfolio1.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/yanamalamanda-adithya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:adithyayanamalamanda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=adithyayanamalamanda&label=Profile+views&color=0A66C2&style=flat-square" alt="Profile views">
 </p>
 
 ---
 
-# 🎮 [ PLAYER STATUS ]
+## About
 
-<table>
-<tr>
+I'm a final-year B.Tech student in Computer Science and Engineering (Data Science) at Andhra Loyola Institute of Engineering and Technology, Vijayawada. I build full-stack web applications, study cybersecurity, and prepare for software engineering roles through consistent DSA and system design practice.
 
-<td width="50%" valign="top">
-
-### 🛡️ BASE STATS
-
-- 🎓 **Level:** B.Tech — 4th Year
-- 🏆 **Title:** Google Student Ambassador
-- 💻 **Class:** Full Stack Developer
-- 🛡️ **Specialization:** Cybersecurity
-- 🧠 **Focus:** DSA + System Design
-- ⚡ **Mode:** Building & Learning
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚔️ CURRENT OBJECTIVES
-
-- 🟢 `[■■■■■■■■□□]` System Design
-- 🟢 `[■■■■■■■■■□]` Full Stack
-- 🟢 `[■■■■■■■■■■]` Placement Preparation
-- 🟢 `[■■■■■■■□□□]` Cybersecurity
-- 🟢 `[■■■■■■■■□□]` DSA
-
-</td>
-
-</tr>
-</table>
+- Google Student Ambassador (2026–27)
+- Co-founder, **Mission Placements**: a placement-preparation community
+- NSS Volunteer: community service and STEM outreach
+- Technical presenter and academic speaker
 
 ---
 
-# 🎒 [ INVENTORY / TECH STACK ]
+## Currently focused on
 
-<details open>
-<summary><b>🪄 SOFTWARE ENGINEERING</b></summary>
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,mysql,py,cpp,java,git,github&theme=dark" alt="Software Skills">
-</p>
-
-<p align="center">
-<b>React • Vite • Tailwind • Node.js • Express • MongoDB • MySQL • Python • C++ • Java</b>
-</p>
-
-</details>
-
-<br>
-
-<details open>
-<summary><b>🗡️ CYBERSECURITY ARSENAL</b></summary>
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,git&theme=dark" alt="Cybersecurity Skills">
-</p>
-
-<p align="center">
-<b>Nmap • Metasploit • Burp Suite • Hashcat • Linux • Bash</b>
-</p>
-
-</details>
+| Area | Focus |
+| :--- | :--- |
+| **Full Stack Development** | React, Node.js, Express, MongoDB, MySQL |
+| **Data Structures & Algorithms** | Problem solving in C++, Java and Python |
+| **System Design** | Scalable architecture and design trade-offs |
+| **Cybersecurity** | Penetration testing fundamentals and secure coding |
 
 ---
 
-# 📜 [ ACTIVE QUESTS ]
+## Tech stack
 
-| 🎮 Quest | ⚡ Description | 🧪 Stack |
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css&theme=light" alt="Languages">
+
+**Frameworks & libraries**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=light" alt="Frameworks">
+
+**Databases & tools**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux,bash&theme=light" alt="Databases and tools">
+
+**Security tooling:** Nmap, Metasploit, Burp Suite, Hashcat, Kali Linux
+
+---
+
+## Featured projects
+
+| Project | Description | Tech |
 | :--- | :--- | :--- |
-| 🌱 **AgriLink Platform** | Green Tech platform connecting farmers with essential resources. | `React` `Vite` `Tailwind` `Recharts` |
-| 🧩 **The Labyrinth Engine** | Interactive 3D first-person maze for technical events. | `Python` `3D Engine` |
-| 🔐 **Operation: Override** | 14-day cybersecurity training module. | `Cybersecurity` `Pentesting` |
-| 🧠 **Aptitude Ascendant** | 54+ day logical reasoning and coding placement series. | `DSA` `Aptitude` |
+| **AgriLink Platform** | Green-tech platform connecting farmers with essential resources and data insights. | React, Vite, Tailwind CSS, Recharts |
+| **The Labyrinth Engine** | Interactive 3D first-person maze built for technical events. | Python, 3D engine |
+| **Operation: Override** | 14-day hands-on cybersecurity training module covering penetration testing fundamentals. | Cybersecurity, Pentesting |
+| **Aptitude Ascendant** | 54+ day logical reasoning, aptitude and coding series for placement preparation. | DSA, Aptitude |
 
 ---
 
-# 🕹️ [ MINI-GAME: CONTRIBUTION SNAKE ]
+## GitHub stats
 
 <p align="center">
-<i>Watch the snake consume my GitHub contributions!</i>
-</p>
-
-<!--
-  NOTE: these SVGs are generated by a GitHub Action into the `output` branch
-  of this repo. Add the included snake.yml workflow (.github/workflows/snake.yml)
-  and push once to main to make this render — see chat for the two setup steps.
--->
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/adithyayanamalamanda/adithyayanamalamanda/output/github-snake-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/adithyayanamalamanda/adithyayanamalamanda/output/github-snake.svg"
-    >
-    <img
-      src="https://raw.githubusercontent.com/adithyayanamalamanda/adithyayanamalamanda/output/github-snake.svg"
-      width="100%"
-      alt="GitHub Contribution Snake"
-      loading="lazy"
-    >
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyayanamalamanda&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyayanamalamanda&layout=compact&theme=default&hide_border=true" width="49%" alt="Top languages">
 </p>
 
 ---
 
-# 📊 [ PLAYER ANALYTICS ]
+## Let's connect
 
-<p align="center">
+I'm open to software engineering opportunities, collaborations and technical speaking invitations.
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=adithyayanamalamanda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF&cache_seconds=86400"
-width="48%"
-alt="GitHub Stats"
-loading="lazy"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyayanamalamanda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF&cache_seconds=86400"
-width="48%"
-alt="Top Languages"
-loading="lazy"
-/>
-
-</p>
-
----
-
-# 🔥 [ CONTRIBUTION STREAK ]
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=adithyayanamalamanda&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC"
-width="100%"
-alt="GitHub Contribution Streak"
-loading="lazy"
-/>
-
-</p>
-
----
-
-# 🧠 [ CODING PROFILE ]
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img
-src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-alt="LeetCode"
-/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img
-src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-alt="GeeksforGeeks"
-/>
-</a>
-
-<a href="https://github.com/adithyayanamalamanda">
-<img
-src="https://img.shields.io/badge/GitHub-View%20Repositories-00FFCC?style=for-the-badge&logo=github&logoColor=black"
-alt="GitHub"
-/>
-</a>
-
-</p>
-
----
-
-# ⚡ [ SYSTEM STATUS ]
-
-```text
-┌──────────────────────────────────────────────┐
-│              ADITHYA.EXE                     │
-├──────────────────────────────────────────────┤
-│ STATUS       : ONLINE                        │
-│ MODE         : BUILD                         │
-│ CLASS        : FULL STACK + SECURITY         │
-│ DSA          : ACTIVE                        │
-│ SYSTEM DESIGN: ACTIVE                        │
-│ CYBERSECURITY: ACTIVE                        │
-│ PLACEMENT    : GRINDING                      │
-│ ENERGY       : ████████████████████ 100%     │
-└──────────────────────────────────────────────┘
-```
+- Portfolio: [adithya-portfolio1.netlify.app](https://adithya-portfolio1.netlify.app)
+- LinkedIn: [yanamalamanda-adithya](https://www.linkedin.com/in/yanamalamanda-adithya/)
+- Email: adithyayanamalamanda@gmail.com
