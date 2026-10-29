@@ -70,7 +70,6 @@ I'm a final-year B.Tech student in Computer Science and Engineering (Data Scienc
   <a href="https://github.com/adithyayanamalamanda?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-View-0A66C2?style=for-the-badge&logo=github" alt="Repositories"></a>
   <a href="https://github.com/adithyayanamalamanda?tab=stars"><img src="https://img.shields.io/badge/Starred-View-0A66C2?style=for-the-badge&logo=github" alt="Stars"></a>
 </p>
----
 
 ## Let's connect
 
